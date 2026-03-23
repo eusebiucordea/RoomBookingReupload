@@ -1,14 +1,9 @@
-# Project name
+# Roombooking
 
+A full-stack web application designed to manage room reservations efficiently. This project was developed as a collaborative academic effort at the **Lucian Blaga University of Sibiu**.
 
-## How to
-
-Modify this readme file to describe the application and how to set
-it up on ones computer for development purposes. This should help
-others set up the project on their computer and start working on it.
-
-## Structure
-
-The project files go into the root of this repository.
-There is a `documents` folder in which you should add all 
-the documentation artifacts.
+## Tech Stack
+* **Backend:** Jakarta EE (Java Enterprise Edition)
+* **Server:** Glassfish
+* **Database:** MySQL
+* **Frontend:** HTML, CSS, JavaScript (JSP/Servlets)
